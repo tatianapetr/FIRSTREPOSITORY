@@ -1,6 +1,16 @@
-echo "# FIRSTREPOSITORY" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/tatianapetr/FIRSTREPOSITORY.git
-git push -u origin master
+!dostype HTML>
+<HEAD>
+<TITLE>Любимый город</TITLE>
+</HEAD>
+<BODY bgcolor="CCFFFF"face="Monotype Corsiva">
+<h1 aling="cenetr">Александр Пушкин <br>
+<marquee>из поэмы "Медный всадник"</marquee></h1>
+<hr noshade width="80% color="orange" size="10">
+<img src="Sity/jpg" align="left" width="600" height="410">
+Люблю тебя, Петра творенье,<br>
+Люблю твой строги, стройный вид <br>
+Береговой ее гранит.
+</p>
+<hr noshade width="80%" color=>"orange" size="10">
+</BODY>
+</HTML>
